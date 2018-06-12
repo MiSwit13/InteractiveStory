@@ -1,9 +1,12 @@
-package com.switzersoft.interactivestory;
+package com.switzersoft.interactivestory.UI;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+
+import com.switzersoft.interactivestory.R;
+import com.switzersoft.interactivestory.model.Page;
 
 public class StoryActivity extends AppCompatActivity {
 
